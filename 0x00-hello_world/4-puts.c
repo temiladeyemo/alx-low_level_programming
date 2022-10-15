@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *main- puts print a line of string and apends to a newline
- *return: always return 0 for a successfully run code
+ *main - puts print a line of string and apends to a newline
+ *Return: always return 0 for a successfully run code
  */
 
 int main(void)
